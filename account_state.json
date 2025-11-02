@@ -1,0 +1,25 @@
+{
+  "start_time": "2025-10-31T09:39:43.170306",
+  "invocations": 6,
+  "initial_equity": 6722.214835519,
+  "trade_history": [
+    {
+      "time": "2025-10-31T10:44:10.244266",
+      "symbol": "SOL-USDT",
+      "side": "BUY",
+      "size": 6.499835764949192,
+      "reason": "RSI approaching oversold and MACD near zero, indicating potential bullish reversal momentum.",
+      "success": true,
+      "price": null
+    },
+    {
+      "time": "2025-10-31T15:17:14.804825",
+      "symbol": "BNB-USDT",
+      "side": "BUY",
+      "size": 4.792286768049551,
+      "reason": "BNB RSI7 is 35.08, indicating oversold conditions with potential for a bounce, and no current position allows for diversification.",
+      "success": true,
+      "price": null
+    }
+  ]
+}
