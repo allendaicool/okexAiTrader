@@ -262,6 +262,6 @@ def main():
         traceback.print_exc()
 
 if __name__ == "__main__":
-    #main()
-    res = trade.place_order(instId='BNB-USDT', tdMode="cash", side="buy", ordType="market", tgtCcy='base_ccy', sz=str(1))
-    print(res)
+    main()
+    #res = trade.place_order(instId='BNB-USDT', tdMode="cash", side="buy", ordType="market", tgtCcy='base_ccy', sz=str(1))
+    # print(res)
