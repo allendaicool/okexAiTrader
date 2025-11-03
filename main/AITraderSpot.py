@@ -21,7 +21,7 @@ STATE_FILE = "/Users/yihongdai/Desktop/project/okex/account_state.json"
 TRADING_SYMBOLS = ["BTC-USDT", "ETH-USDT", "SOL-USDT", "BNB-USDT"]
 
 MAX_COIN_EXPOSURE = 0.30    # 单币最大仓位 = 30% 账户
-MAX_RISK_PER_TRADE = 0.02   # 单笔风险 = 2% 账户
+MAX_RISK_PER_TRADE = 0.04   # 单笔风险 = 2% 账户
 ATR_STOP_MULTIPLIER = 1.5
 VOL_TARGET_ANN = 0.50
 KELLY_FRACTION = 0.25
